@@ -11,6 +11,7 @@
     >
       <div v-bind="rootProps">
         <input
+          class="form-input block w-full pl-7 pr-12 sm:text-sm sm:leading-5"
           ref="input"
           v-bind="inputProps"
           @input="handleInput"
