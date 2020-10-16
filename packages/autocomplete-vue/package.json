@@ -1,5 +1,5 @@
 {
-  "name": "@trevoreyre/autocomplete-vue",
+  "name": "@udit99/autocomplete-vue",
   "version": "2.2.0",
   "description": "Simple autocomplete component in vanilla JS and Vue",
   "main": "dist/autocomplete.cjs.js",
